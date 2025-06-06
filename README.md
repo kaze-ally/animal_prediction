@@ -1,4 +1,4 @@
-# 🐾 Animal Prediction using Deep Learning
+# 🐾 Animal classification using Deep Learning
 
 A complete end-to-end pipeline to classify 10 different animals from images, built with PyTorch and deployed as a Streamlit web app. This repository includes:
 
