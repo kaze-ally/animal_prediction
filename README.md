@@ -35,7 +35,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
-### 6:Run animal_prediction.ipynb to create svaed_model.pth
+### 4:Run animal_prediction.ipynb to create svaed_model.pth
 
 
 ### 5. Run the Application
