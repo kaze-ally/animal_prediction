@@ -48,7 +48,7 @@ streamlit run app.py
 ## 🧠 Model Details
 
 - Framework: **PyTorch**
-- Trained model saved as: `saved_model.pth`
+- Trained model saved as it is not present in the repository .It can be create by running animal_prediction.ipynb : `saved_model.pth`
 - Functions in `model_helper.py` manage model loading and prediction
 
 ## 📓 Jupyter Notebook
