@@ -17,7 +17,7 @@ animal_model/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/animal_model.git
+git clone https://github.com/kaze-ally/animal_model.git
 cd animal_model
 ```
 
@@ -35,8 +35,10 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
+### 6:Run animal_prediction.ipynb to create svaed_model.pth
 
-### 4. Run the Application
+
+### 5. Run the Application
 
 If using Streamlit:
 
