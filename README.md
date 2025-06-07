@@ -9,7 +9,6 @@ animal_model/
 ├── animal_prediction.ipynb   # Model development and experimentation notebook
 ├── app.py                    # Main application script
 ├── model_helper.py           # Helper functions for loading and predicting
-├── saved_model.pth           # Trained PyTorch model
 ├── requirements.txt          # Project dependencies
 ```
 
